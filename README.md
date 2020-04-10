@@ -1,2 +1,2 @@
-# C-37-car-racing-game
-I created a car racing game-stage3.
+# CarRacingGame1.0
+Car Racing Game Stage 1.0
